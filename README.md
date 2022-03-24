@@ -1,5 +1,5 @@
 # <div align="center">Hi! I'm Emma.</div>
-### <div align="center">I'm a web developer based in Tulsa, OK.</div>
+### <div align="center">I build websites and other things in Tulsa, OK.</div>
 
 :butterfly: I’m currently working on this [adorable self-care app](https://github.com/self-care-bear/self-care-bear).
 <br>

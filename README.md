@@ -25,7 +25,7 @@
 <img src="https://media.giphy.com/media/AABKwZleKzxNjM8a11/giphy.gif" height="250" />
 </div> -->
 
-## <div align='center'>Say Hi!</div>
+## <div align='center'>Get in touch.</div>
 <div align='center'><a href='mailto:emma@egstad.com'>Email</a> 🐞 <a href='https://www.linkedin.com/in/emmaegstad/'>LinkedIn</a> 🪲 <a href='https://www.twitter.com/emmaegstad'>Twitter</a>
 </div>
 

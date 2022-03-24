@@ -1,5 +1,7 @@
+<p text-align="center">
 ## Hi! I'm Emma.
 ### A software engineer in Tulsa, OK.
+</p>
 
 - :butterfly: I’m currently working on this [adorable self-care app](https://github.com/self-care-bear/self-care-bear).
 - :bug: And be sure to check out my most recent projects: [PIXL](https://github.com/PIXLAPP/pixel-art-project) + [BYOBee](https://github.com/BYOBee-Project/BYOBee)

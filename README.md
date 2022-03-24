@@ -1,5 +1,5 @@
-# <div align="center">Hi! I'm Emma.</div>
-### <div align="center">I create things on the web in Tulsa, OK.</div>
+
+### <div align="center">Hi! I'm Emma. I create things on the web in Tulsa, OK.</div>
 
 :butterfly: I’m currently working on this [adorable self-care app](https://github.com/self-care-bear/self-care-bear).
 <br>
@@ -18,7 +18,7 @@
 - Project Management Tools: Miro, Figma, Trello
 - Dev Practices: Pair Programming, RESTful APIs, Agile, Test Driven Development -->
 
-## <div align='center'>Get In Touch!</div>
+### <div align='center'>Say Hi!</div>
 <div align='center'><a href='mailto:emma@egstad.com'>Email</a> 🐞 <a href='https://www.linkedin.com/in/emmaegstad/'>LinkedIn</a> 🪲 <a href='https://www.twitter.com/emmaegstad'>Twitter</a>
 </div>
 <br>

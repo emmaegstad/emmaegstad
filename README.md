@@ -1,5 +1,5 @@
-<h2 align="center">Hi! My name is Emma. 🐝</h1>
-<h3 align="center">I'm a software engineer based in Tulsa, OK.</h2>
+<h3 align="center">Hi! My name is Emma.</h3>
+<h4 align="center">I'm a software engineer based in Tulsa, OK.</h4>
 
 :butterfly: I’m currently working on this [adorable self-care app](https://github.com/self-care-bear/self-care-bear).
 <br>
@@ -7,7 +7,8 @@
 <br>
 :ant: I’m currently learning backend - Node.js, PostgreSQL, Express. Blowing my mind.
 <br>
-:lady-beetle: You can reach me at emma@egstad.com or on Twitter at @emmaegstad
-<br>
-:beetle: When I'm not at the computer, you can find me bee-watching outside, watching Nicolas Cage movies, reading (currently going through the Malazan Book of the Fallen), and taking fat naps with my cats.
+🐝: When I'm not at the computer, you can find me bee-watching outside, watching Nicolas Cage movies, reading (currently going through the Malazan Book of the Fallen), and taking fat naps with my cats.
+
+<h4 align="center'>Contact Me</h4>
+[emma@egstad.com](mailto:emma@egstad.com) 🐞 [LinkedIn](https://www.linkedin.com/in/emmaegstad/) 🪲 [Twitter](https://twitter.com/emmaegstad)
 

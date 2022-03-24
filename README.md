@@ -1,6 +1,8 @@
 
-### <div align="center">Hi! I'm Emma. I create things on the web in Tulsa, OK.</div>
+## <div align="center">Hi, I'm Emma!</div>
 
+:beetle: I create things on the web in Tulsa, OK.
+<br>
 :butterfly: I’m currently working on this [adorable self-care app](https://github.com/self-care-bear/self-care-bear).
 <br>
 :bug: And if you want to check out some of my other projects... [PIXL](https://github.com/PIXLAPP/pixel-art-project) + [BYOBee](https://github.com/BYOBee-Project/BYOBee)
@@ -26,7 +28,7 @@
 <img src="https://media.giphy.com/media/AABKwZleKzxNjM8a11/giphy.gif" height="250" />
 </div>
 
-### <div align='center'>Say Hi!</div>
+## <div align='center'>Say Hi!</div>
 <div align='center'><a href='mailto:emma@egstad.com'>Email</a> 🐞 <a href='https://www.linkedin.com/in/emmaegstad/'>LinkedIn</a> 🪲 <a href='https://www.twitter.com/emmaegstad'>Twitter</a>
 </div>
   

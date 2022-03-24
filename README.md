@@ -10,5 +10,5 @@
 🐝: When I'm not at the computer, you can find me outside bee-watching, inside Nicolas Cage-watching, reading (currently going through the Malazan Book of the Fallen), and taking fat naps with my cats.
 
 ## <div align='center'>Contact</div>
-<div align='center'><a href='mailto:emma@egstad.com'>emma@egstad.com</a> 🐞 <a href='https://www.linkedin.com/in/emmaegstad/'>LinkedIn</a> 🪲 <a href='https://www.twitter.com/emmaegstad'>Twitter</a>
+<div align='center'><a href='mailto:emma@egstad.com'>Email</a> 🐞 <a href='https://www.linkedin.com/in/emmaegstad/'>LinkedIn</a> 🪲 <a href='https://www.twitter.com/emmaegstad'>Twitter</a>
 </div>

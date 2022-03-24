@@ -22,6 +22,6 @@
 <div align='center'><a href='mailto:emma@egstad.com'>Email</a> 🐞 <a href='https://www.linkedin.com/in/emmaegstad/'>LinkedIn</a> 🪲 <a href='https://www.twitter.com/emmaegstad'>Twitter</a>
 </div>
 
-<div align='center'>
-<iframe src="https://giphy.com/embed/YL8quuOin5E7C" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-reaction-YL8quuOin5E7C">via GIPHY</a></p>
-</div>
+
+<iframe src="https://giphy.com/embed/YL8quuOin5E7C" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+

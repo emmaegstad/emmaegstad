@@ -20,9 +20,6 @@
 - Project Management Tools: Miro, Figma, Trello
 - Dev Practices: Pair Programming, RESTful APIs, Agile, Test Driven Development -->
 
-<br>
-<br>
-
 <!-- <img src="https://media.giphy.com/media/YL8quuOin5E7C/giphy.gif" height="150" /> -->
 <!-- <div align="center">
 <img src="https://media.giphy.com/media/AABKwZleKzxNjM8a11/giphy.gif" height="250" />
@@ -31,6 +28,9 @@
 ## <div align='center'>Say Hi!</div>
 <div align='center'><a href='mailto:emma@egstad.com'>Email</a> 🐞 <a href='https://www.linkedin.com/in/emmaegstad/'>LinkedIn</a> 🪲 <a href='https://www.twitter.com/emmaegstad'>Twitter</a>
 </div>
+
+<br>
+<br>
 
 <div align="center">
 <img src="https://media.giphy.com/media/AABKwZleKzxNjM8a11/giphy.gif" height="250" />

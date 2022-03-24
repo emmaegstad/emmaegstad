@@ -9,5 +9,5 @@
 <br>
 :bee: You can reach me at emma@egstad.com or on Twitter at @emmaegstad
 <br>
-:beetle: When I'm not at the computer, you can find me outside looking for bees, working my way through the filmography of Nicolas Cage, reading (currently going through the Malazan Book of the Fallen), and taking fat naps.
+:beetle: When I'm not at the computer, you can find me bee-watching outside, watching Nicolas Cage movies, reading (currently going through the Malazan Book of the Fallen), and taking fat naps.
 

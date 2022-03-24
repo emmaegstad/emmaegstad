@@ -9,7 +9,7 @@
 <br>
 :ant: I’m currently learning backend - Node.js, PostgreSQL, Express. Blowing my mind.
 <br>
-:bee: When I'm not at the computer, you can find me outside bee-watching, inside Cage-watching, reading (currently going through the Malazan Book of the Fallen), playing my cello, or petting my cats (or anyone else's cats).
+:bee: When I'm not at the computer, you can find me outside bee-watching, inside Cage-watching, reading (currently on Malazan Book of the Fallen), playing my cello, or petting my cats (or anyone else's cats).
 
 <!-- ## <div align='center'>Tech Stack</div>
 - Languages: JavaScript, CSS, HTML

@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Emma.</h1>
-<h2 align="center">A software engineer in Tulsa, OK.</h2>
+<h2 align="center">Hi! I'm Emma. 🐞</h1>
+<h3 align="center">I'm a software engineer based in Tulsa, OK.</h2>
 
 :butterfly: I’m currently working on this [adorable self-care app](https://github.com/self-care-bear/self-care-bear).
 <br>

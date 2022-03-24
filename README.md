@@ -7,7 +7,7 @@
 <br>
 :ant: I’m currently learning backend - Node.js, PostgreSQL, Express. Blowing my mind.
 <br>
-🐝: When I'm not at the computer, you can find me outside bee-watching, inside Nicolas Cage-watching, reading (currently going through the Malazan Book of the Fallen), and taking fat naps with my cats.
+🐝: When I'm not at the computer, you can find me outside bee-watching, inside Nicolas Cage-watching, reading (currently going through the Malazan Book of the Fallen), playing my cello, or petting my cats (or anyone else's cats).
 
 ## <div align='center'>Contact</div>
 <div align='center'><a href='mailto:emma@egstad.com'>Email</a> 🐞 <a href='https://www.linkedin.com/in/emmaegstad/'>LinkedIn</a> 🪲 <a href='https://www.twitter.com/emmaegstad'>Twitter</a>

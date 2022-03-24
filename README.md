@@ -11,13 +11,13 @@
 
 ## <div align='center'>Tech Stack</div>
 - Languages: JavaScript, CSS, HTML
-- Libraries & Frameworks: React, Node.js, Express
+- Libraries & Frameworks: React, Redux, Vue, Node.js, Express
 - Testing: Jest, QUnit, Supertest, React Testing Library
-- Databases: PostgreSQL, Supabase
-- Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, Beekeeper Studio
+- Databases: PostgreSQ
+- Tools: VSCode, Git, GitHub, Heroku, Netlify, Supabase, Postman, Beekeeper Studio
 - Project Management Tools: Miro, Figma, Trello
 - Dev Practices: Pair Programming, RESTful APIs, Agile, Test Driven Development
 
-## <div align='center'>Contact</div>
+## <div align='center'>Get In Touch!</div>
 <div align='center'><a href='mailto:emma@egstad.com'>Email</a> 🐞 <a href='https://www.linkedin.com/in/emmaegstad/'>LinkedIn</a> 🪲 <a href='https://www.twitter.com/emmaegstad'>Twitter</a>
 </div>

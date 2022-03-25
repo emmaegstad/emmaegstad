@@ -3,7 +3,7 @@
 
 :beetle: I make web things in Tulsa, OK.
 <br>
-:butterfly: I’m currently working on this [adorable self-care app](https://github.com/self-care-bear/self-care-bear).
+:butterfly: I’m currently working on this [CUTE self-care app](https://github.com/self-care-bear/self-care-bear).
 <br>
 :bug: And if you want to check out some of my other projects... [PIXL](https://github.com/PIXLAPP/pixel-art-project) + [BYOBee](https://github.com/BYOBee-Project/BYOBee)
 <br>

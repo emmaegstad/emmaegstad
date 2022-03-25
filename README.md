@@ -1,7 +1,7 @@
 
 ## <div align="center">Hi, I'm Emma!</div>
 
-:beetle: I create things on the web in Tulsa, OK.
+:beetle: I make web things in Tulsa, OK.
 <br>
 :butterfly: I’m currently working on this [adorable self-care app](https://github.com/self-care-bear/self-care-bear).
 <br>

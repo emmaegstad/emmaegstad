@@ -5,9 +5,7 @@
 <br>
 :smiley_cat: Hi, I'm Emma! I build things on the web in Tulsa, OK.
 <br>
-:pouting_cat: I’m currently working on this <a href='https://github.com/self-care-bear/self-care-bear'>VERY cute self-care app</a>.
-<br>
-:joy_cat: And if you want to check out some of my other projects... <a href='https://www.emmaegstad.com'>here's my portfolio site</a>.
+:pouting_cat: You can check out my recent projects on <a href='https://www.emmaegstad.com'>my portfolio site</a>.
 <br>
 :heart_eyes_cat: When I'm not at the computer, you can find me outside bee-watching, inside Nic Cage-watching, reading (currently: Malazan Book of the Fallen), playing my cello, and petting my cats (or anyone else's cats).
 
